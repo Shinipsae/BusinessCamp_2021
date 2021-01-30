@@ -34,9 +34,7 @@
         -     샘플DB의 컬럼명 수정 (type -> types)
 
 ######    6.    스프링, MySQL, MyBatis 연동, 데이터 조회
-
-
-
+</br></br></br>
 
 
 ## II.                Restful API 학습하기
